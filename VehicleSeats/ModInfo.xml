@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="VehicleSeats" />
+        <Description value="Adds extra seats to various vehicles" />
+        <Author value="Kareth" />
+        <Version value="1.0.0" />
+    </ModInfo>
+</xml>
